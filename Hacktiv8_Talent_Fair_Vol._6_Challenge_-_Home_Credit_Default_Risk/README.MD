@@ -14,6 +14,7 @@ Home Credit strives to broaden financial inclusion for the unbanked population b
 While Home Credit is currently using various statistical and machine learning methods to make these predictions, they're challenging Kagglers to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
 
 Conclusion:
+
 Based on the EDA findings and the model evaluation, here are some suggestions:
 1. Pay attention to loan types: Cash loans have shown a higher repayment rate compared to revolving loans. It would be beneficial to focus more on cash loans and assess the risk associated with revolving loans.
 2. Gender and unknown gender category: Male borrowers have a slightly higher repayment rate, while borrowers with unknown gender have a 0.0% repayment rate. Further investigation is needed to understand the reasons behind the unknown gender category and how it affects loan repayment. Collecting more information or finding alternative ways to handle missing gender data may be necessary.
