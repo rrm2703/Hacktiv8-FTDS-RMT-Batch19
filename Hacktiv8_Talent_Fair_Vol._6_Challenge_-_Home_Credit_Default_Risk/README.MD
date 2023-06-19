@@ -2,12 +2,13 @@
 This repository is about analysis and model building including data preprocessing, model definition and evaluation using machine learning methods related to Home Credit Default Risk Project
 
 # Introduction
-Name: Ryan Risyadul Maruf
-Class: FTDS-RMT-Batch 019
-Dataset: `https://www.kaggle.com/competitions/home-credit-default-risk`
-Objective: Identify clients capable of repayment to prevent unnecessary rejections and to offer loans tailored with appropriate principals, maturities, and repayment calendars with Machine Learning methods.
-Project Title : Hacktiv8_Talent_Fair_Vol._6_Challenge_-_Home_Credit_Default_Risk.ipynb
-Project Description:
+- Name: Ryan Risyadul Maruf
+- Class: FTDS-RMT-Batch 019
+- Dataset: `https://www.kaggle.com/competitions/home-credit-default-risk`
+- Objective: Identify clients capable of repayment to prevent unnecessary rejections and to offer loans tailored with appropriate principals, maturities, and repayment calendars with Machine Learning methods.
+- Project Title : Hacktiv8_Talent_Fair_Vol._6_Challenge_-_Home_Credit_Default_Risk.ipynb
+- Project Description:
+
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
 While Home Credit is currently using various statistical and machine learning methods to make these predictions, they're challenging Kagglers to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
